@@ -3,7 +3,7 @@ import pygame
 from colorama import init, Fore, Style
 
 pygame.init()
-son = pygame.mixer.Sound("")
+son = pygame.mixer.Sound("https://www.youtube.com/watch?v=76qRF5-qvZM")
 son.play() 
 init() # initialisation de colorama
 
