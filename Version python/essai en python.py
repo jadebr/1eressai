@@ -1,9 +1,9 @@
 import time
-import pygame
+import pygame 
 from colorama import init, Fore, Style
 
 pygame.init()
-son = pygame.mixer.Sound("https://www.youtube.com/watch?v=76qRF5-qvZM")
+son = pygame.mixer.Sound("audio/onlymp3.to - Ori and the Blind Forest – Main Theme [Menu Music]-76qRF5-qvZM-256k-1657169721742.mp3")
 son.play() 
 init() # initialisation de colorama
 
