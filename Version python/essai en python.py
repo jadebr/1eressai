@@ -3,7 +3,7 @@ import pygame
 from colorama import init, Fore, Style
 
 pygame.init()
-son = pygame.mixer.Sound("audio/Samurai_Nightcore.mp3")
+son = pygame.mixer.Sound("")
 son.play() 
 init() # initialisation de colorama
 
